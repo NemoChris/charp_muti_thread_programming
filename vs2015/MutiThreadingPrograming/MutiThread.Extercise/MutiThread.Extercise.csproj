@@ -52,6 +52,7 @@
     <Compile Include="Chapter1\Recipe3.cs" />
     <Compile Include="Chapter1\Recipe4.cs" />
     <Compile Include="Chapter1\Recipe5.cs" />
+    <Compile Include="Chapter1\Recipe6.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tool\ConsoleHelper.cs" />
   </ItemGroup>

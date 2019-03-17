@@ -2,3 +2,4 @@
 *.suo
 obj/
 bin/
+/vs2015/MutiThreadingPrograming/.vs/MutiThreadingPrograming/v15/Server/sqlite3
