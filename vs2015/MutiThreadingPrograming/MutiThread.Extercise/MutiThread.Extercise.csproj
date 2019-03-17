@@ -53,6 +53,7 @@
     <Compile Include="Chapter1\Recipe4.cs" />
     <Compile Include="Chapter1\Recipe5.cs" />
     <Compile Include="Chapter1\Recipe6.cs" />
+    <Compile Include="Chapter1\Recipe9.cs" />
     <Compile Include="Chapter1\Recipe8.cs" />
     <Compile Include="Chapter1\Recipe7.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
