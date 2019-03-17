@@ -11,9 +11,8 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
-            MutiThread.Extercise.Chapter1.Recipe7.Recipe7.Main();
-            //WaitKey();
-			var _ = 0;
+            MutiThread.Extercise.Chapter1.Recipe8.Recipe8.Main();
+            WaitKey();			
         }
     }
 }
